@@ -1,0 +1,14 @@
+SELECT
+    System.timestamp AS timestart,
+    SensorID AS sensorid,
+    ObjectType AS alerttype,
+    Version AS message,
+    TargetAlarmDevice AS targetalarmdevice,
+    Temperature As temperature
+INTO
+    eventhub
+FROM
+    iothubinput
+WHERE Temperature>30
+
+SELECT * INTO powerbi FROM iothubinput

@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "IoTHubConnectionAppSetting": "=====Insert your IoT Hub Connection String=====",
+    "EventHubConnectionAppSetting": "=====Insert your Event Hub Connection String====="
+  }
+}
