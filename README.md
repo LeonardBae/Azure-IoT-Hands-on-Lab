@@ -26,10 +26,10 @@ VS2019 설치 완료 후 프로젝트의 **IoTDeviceSimulator** 폴더 및 **eve
 ![alt text](https://github.com/LeonardBae/Azure-IoT-Hands-on-Lab/blob/master/Contents/VS2019_2.PNG)
 ![alt text](https://github.com/LeonardBae/Azure-IoT-Hands-on-Lab/blob/master/Contents/VS2019_3.PNG)
 
-VS 프로젝트가 실행되면 상단에 Build -> Build Solution을 차례로 클릭하여 솔루션을 Build합니다.
+VS 프로젝트가 실행되면 상단에 **Build -> Build Solution**을 차례로 클릭하여 솔루션을 Build합니다.
 ![alt text](https://github.com/LeonardBae/Azure-IoT-Hands-on-Lab/blob/master/Contents/VS2019_1.PNG)
 
-Build가 정상적으로 완료되면 화면 하단의 Output 창에 아래의 그림과 같이 표시가 됩니다.
+Build가 정상적으로 완료되면 화면 하단의 **Output** 창에 아래의 그림과 같이 표시가 됩니다.
 ![alt text](https://github.com/LeonardBae/Azure-IoT-Hands-on-Lab/blob/master/Contents/VS2019_4.PNG)
 ![alt text](https://github.com/LeonardBae/Azure-IoT-Hands-on-Lab/blob/master/Contents/VS2019_5.PNG)
 
